@@ -106,7 +106,7 @@ export const theme = createTheme({
     },
   },
   palette: {
-    textSecondary: '#33353F'
+    textSecondary: '#33353F',
   }
 })
 
